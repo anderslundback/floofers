@@ -1,2 +1,0 @@
-# floofers
-Created with CodeSandbox
